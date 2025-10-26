@@ -27,7 +27,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
-
+</div>
 ## ⚡️ Features
 
 - [x] Real time communication is supported using [Socket.io](https://socket.io/)
